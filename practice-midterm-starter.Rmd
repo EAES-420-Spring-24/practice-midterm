@@ -13,7 +13,7 @@ output: html_document
 
 ```{r load-packages, message = F}
 library(tidyverse)
-library(palmerpenguins)
+library(openintro)
 ```
 
 ## Exericses
